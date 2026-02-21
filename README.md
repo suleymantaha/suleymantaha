@@ -1,5 +1,5 @@
 <h1 align="center">BABA Süleyman Taha</h1>
-<h3 align="center">Makyevel</h3>
+<h3 align="center">[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&width=435&lines=Makyavel)](https://git.io/typing-svg)</h3>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=S%C3%BCleyman+Taha)](https://git.io/typing-svg)
 
