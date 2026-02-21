@@ -18,15 +18,4 @@
 
 
 
-
-<img src="https://raw.githubusercontent.com/suleymantaha/suleymantaha/output/github-contribution-grid-snake.svg" width="100%" alt="snake">
-
-![snake gif](https://raw.githubusercontent.com/suleymantaha/suleymantaha/output/github-contribution-grid-snake.gif)
-
-![snake](https://raw.githubusercontent.com/suleymantaha/suleymantaha/output/github-contribution-grid-snake.svg)
-
-
-![snake](https://raw.githubusercontent.com/suleymantaha/suleymantaha/output/github-contribution-grid-snake.svg)
-
-
-![Contribution Snake](https://raw.githubusercontent.com/suleymantaha/suleymantaha/output/github-contribution-grid-snake.svg)
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="100%">
