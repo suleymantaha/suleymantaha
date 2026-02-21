@@ -1,11 +1,7 @@
 <h1 align="center">BABA Süleyman Taha</h1>
 <h3 align="center">Makyevel</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=suleymantaha&label=Profile%20views&color=0e75b6&style=flat" alt="[suleymantaha](https://github.com/suleymantaha)" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=suleymantaha" alt="suleymantaha" /></a> </p>
-
-- 📫 How to reach me **suleymantaha**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=S%C3%BCleyman+Taha)](https://git.io/typing-svg)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
