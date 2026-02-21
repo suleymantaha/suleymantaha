@@ -20,6 +20,4 @@
 
 
 
-
-
 ![snake gif](https://raw.githubusercontent.com/suleymantaha/suleymantaha/output/github-contribution-grid-snake.gif)
