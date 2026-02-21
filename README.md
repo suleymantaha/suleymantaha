@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=41&pause=1000&background=43FFA200&center=true&vCenter=true&width=435&lines=Makyavel)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=S%C3%BCleyman+Taha)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=41&pause=1000&background=43FFA200&center=true&vCenter=true&width=435&lines=Makyevel)](https://git.io/typing-svg)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Her+%C5%9Eey+Yolunda)](https://git.io/typing-svg)
 
