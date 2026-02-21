@@ -1,7 +1,7 @@
 <h1 align="center">BABA Süleyman Taha</h1>
 <h3 align="center">Makyevel</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=suleymantaha&label=Profile%20views&color=0e75b6&style=flat" alt="suleymantaha" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=suleymantaha&label=Profile%20views&color=0e75b6&style=flat" alt="[suleymantaha](https://github.com/suleymantaha)" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=suleymantaha" alt="suleymantaha" /></a> </p>
 
