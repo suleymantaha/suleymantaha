@@ -20,3 +20,6 @@
 
 
 ![snake](https://raw.githubusercontent.com/suleymantaha/suleymantaha/output/github-contribution-grid-snake.svg)
+
+
+![snake](https://raw.githubusercontent.com/suleymantaha/suleymantaha/output/github-contribution-grid-snake.svg)
