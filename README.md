@@ -10,13 +10,3 @@
 
 
 ![snake gif](https://github.com/suleymantaha/suleymantaha/blob/output/github-contribution-grid-snake.gif)
-
-
-
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=suleymantaha&show_icons=true&locale=en&layout=compact" alt="suleymantaha" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=suleymantaha&show_icons=true&locale=en" alt="suleymantaha" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suleymantaha&" alt="suleymantaha" /></p>
