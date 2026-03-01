@@ -13,8 +13,8 @@
 
 <br/>
 
-### 🛠️ Diller ve Araçlar
-*Kullandığım teknolojiler ve yetkinliklerim*
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%23%23%23+%F0%9F%9B%A0%EF%B8%8F+%F0%9D%98%BF%F0%9D%99%9E%F0%9D%99%A1%F0%9D%99%A1%F0%9D%99%9A%F0%9D%99%A7+%F0%9D%99%AB%F0%9D%99%9A+%F0%9D%98%BC%F0%9D%99%A7%F0%9D%99%96%C3%A7%F0%9D%99%A1%F0%9D%99%96%F0%9D%99%A7)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9D%90%8A%F0%9D%90%AE%F0%9D%90%A5%F0%9D%90%A5%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%9D%F0%9D%90%A2%C4%9F%F0%9D%90%A2%F0%9D%90%A6+%F0%9D%90%AD%F0%9D%90%9E%F0%9D%90%A4%F0%9D%90%A7%F0%9D%90%A8%F0%9D%90%A5%F0%9D%90%A8%F0%9D%90%A3%F0%9D%90%A2%F0%9D%90%A5%F0%9D%90%9E%F0%9D%90%AB+%F0%9D%90%AF%F0%9D%90%9E+%F0%9D%90%B2%F0%9D%90%9E%F0%9D%90%AD%F0%9D%90%A4%F0%9D%90%A2%F0%9D%90%A7%F0%9D%90%A5%F0%9D%90%A2%F0%9D%90%A4%F0%9D%90%A5%F0%9D%90%9E%F0%9D%90%AB%F0%9D%90%A2%F0%9D%90%A6)](https://git.io/typing-svg)
 
 <p align="center">
   <!-- Diller -->
