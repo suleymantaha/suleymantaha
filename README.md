@@ -1,19 +1,43 @@
 <div align="center">
 
-# 👨‍💻 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=48&pause=1000&color=F70202&vCenter=true&repeat=false&width=435&lines=S%C3%BCleyman+Taha" alt="Typing SVG" /></a>
-
-<!-- Tek satırda dönen akıcı başlık animasyonu -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=43FFA2&center=true&vCenter=true&width=600&lines=S%C3%BCleyman+Taha;Makyevel;%C4%B0ZLEMEDE+KAL..!;Her+%C5%9Eey+Yolunda)](https://git.io/typing-svg)
-
----
-
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1DF7A7&width=435&lines=+GitHub+%C4%B0statistikleri)](https://git.io/typing-svg)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=suleymantaha&theme=radical&locale=tr&short_numbers=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+<!-- ÜST KISIM: İsim ve Ünvan (Sizin yaptığınız kırmızı animasyon + ortalanmış yapı) -->
+<a href="https://github.com/suleymantaha">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&pause=1000&color=F70202&center=true&vCenter=true&repeat=false&width=500&lines=Hi,+I'm+S%C3%BCleyman+Taha+👋" alt="Typing SVG" />
+</a>
 
 <br/>
 
+<a href="https://github.com/suleymantaha">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=43FFA2&center=true&vCenter=true&width=600&lines=Software+Developer;Makyevel;%C4%B0ZLEMEDE+KAL..!;Her+%C5%9Eey+Yolunda" alt="Typing SVG" />
+</a>
+
+<!-- SOSYAL MEDYA ROZETLERİ (Profilin tok durmasını sağlayan detay) -->
+<p align="center">
+  <a href="mailto:iletisim@mailadresiniz.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://linkedin.com/in/suleymantaha">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <img src="https://img.shields.io/badge/Türkiye-F70202?style=for-the-badge&logo=google-earth&logoColor=white" alt="Turkey" />
+</p>
+
+---
+
+<!-- İSTATİSTİKLER (Yan yana, renk uyumlu ve kutusuz (transparan) gösterim) -->
+### 📊 GitHub İstatistikleri
+
+<p align="center">
+  <!-- Genel İstatistikler -->
+  <img src="https://github-readme-stats.vercel.app/api?username=suleymantaha&show_icons=true&theme=transparent&hide_border=true&title_color=F70202&icon_color=43FFA2&text_color=A0A0A0" alt="GitHub Stats" height="192"/>
+  
+  <!-- Sizin Streak İstatistiğiniz (Renkleri arayüzünüze uyduruldu) -->
+  <img src="https://streak-stats.demolab.com?user=suleymantaha&theme=transparent&hide_border=true&title_color=F70202&ring=F70202&fire=F70202&currStreakLabel=43FFA2&text_color=A0A0A0" alt="GitHub Streak" height="192"/>
+</p>
+
+<br/>
+
+<!-- DİLLER VE ARAÇLAR -->
 ### 🛠️ Diller ve Araçlar
 *Kullandığım teknolojiler ve yetkinliklerim*
 
@@ -53,7 +77,8 @@
 
 <br/>
 
-### 🐍
+<!-- YILAN ANİMASYONU -->
+### 🐍 Katkı Haritası
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/suleymantaha/suleymantaha/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/suleymantaha/suleymantaha/output/github-contribution-grid-snake.svg">
