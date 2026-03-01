@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👨‍💻 Süleyman Taha (Makyevel)
+# 👨‍💻 Süleyman Taha
 
 <!-- Tek satırda dönen akıcı başlık animasyonu -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=43FFA2&center=true&vCenter=true&width=600&lines=S%C3%BCleyman+Taha;Makyevel;%C4%B0ZLEMEDE+KAL..!;Her+%C5%9Eey+Yolunda)](https://git.io/typing-svg)
