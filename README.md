@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👨‍💻 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70202&repeat=false&width=435&lines=S%C3%BCleyman+Taha)](https://git.io/typing-svg)
+# 👨‍💻 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=48&pause=1000&color=F70202&vCenter=true&repeat=false&width=435&lines=S%C3%BCleyman+Taha" alt="Typing SVG" /></a>
 
 <!-- Tek satırda dönen akıcı başlık animasyonu -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=43FFA2&center=true&vCenter=true&width=600&lines=S%C3%BCleyman+Taha;Makyevel;%C4%B0ZLEMEDE+KAL..!;Her+%C5%9Eey+Yolunda)](https://git.io/typing-svg)
