@@ -9,6 +9,8 @@
 
 ### 📊 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1DF7A7&width=435&lines=+GitHub+%C4%B0statistikleri)](https://git.io/typing-svg)
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=suleymantaha&theme=radical&locale=tr&short_numbers=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
 <br/>
 
 ### 🛠️ Diller ve Araçlar
