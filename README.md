@@ -1,9 +1,6 @@
 <div align="center">
 
 <!-- ÜST KISIM: İsim ve Ünvan (Sizin yaptığınız kırmızı animasyon + ortalanmış yapı) -->
-<a href="https://github.com/suleymantaha">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&pause=1000&color=F70202&center=true&vCenter=true&repeat=false&width=500&lines=Hi,+I'm+S%C3%BCleyman+Taha+👋" alt="Typing SVG" />
-</a>
 
 <br/>
 
