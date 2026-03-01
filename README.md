@@ -12,9 +12,10 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=suleymantaha&theme=radical&locale=tr&short_numbers=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 <br/>
-### 🛠️ 𝘿𝙞𝙡𝙡𝙚𝙧 𝙫𝙚 𝘼𝙧𝙖ç𝙡𝙖𝙧
-<br/>
-𝐊𝐮𝐥𝐥𝐚𝐧𝐝𝐢ğ𝐢𝐦 𝐭𝐞𝐤𝐧𝐨𝐥𝐨𝐣𝐢𝐥𝐞𝐫 𝐯𝐞 𝐲𝐞𝐭𝐤𝐢𝐧𝐥𝐢𝐤𝐥𝐞𝐫𝐢𝐦
+
+### 🛠️ Diller ve Araçlar
+*Kullandığım teknolojiler ve yetkinliklerim*
+
 <p align="center">
   <!-- Diller -->
   <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45" style="margin: 6px;"/></a>
@@ -49,9 +50,13 @@
   <a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="45" height="45" style="margin: 6px;"/></a>
 </p>
 
-</div>
+<br/>
+
+### 🐍 GitHub Katkı Yılanı (Contribution Snake)
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/suleymantaha/suleymantaha/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/suleymantaha/suleymantaha/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/suleymantaha/suleymantaha/output/github-contribution-grid-snake.svg">
 </picture>
+
+</div>
