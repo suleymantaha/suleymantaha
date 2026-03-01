@@ -12,10 +12,8 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=suleymantaha&theme=radical&locale=tr&short_numbers=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 <br/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%23%23%23+%F0%9F%9B%A0%EF%B8%8F+%F0%9D%98%BF%F0%9D%99%9E%F0%9D%99%A1%F0%9D%99%A1%F0%9D%99%9A%F0%9D%99%A7+%F0%9D%99%AB%F0%9D%99%9A+%F0%9D%98%BC%F0%9D%99%A7%F0%9D%99%96%C3%A7%F0%9D%99%A1%F0%9D%99%96%F0%9D%99%A7)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9D%90%8A%F0%9D%90%AE%F0%9D%90%A5%F0%9D%90%A5%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%9D%F0%9D%90%A2%C4%9F%F0%9D%90%A2%F0%9D%90%A6+%F0%9D%90%AD%F0%9D%90%9E%F0%9D%90%A4%F0%9D%90%A7%F0%9D%90%A8%F0%9D%90%A5%F0%9D%90%A8%F0%9D%90%A3%F0%9D%90%A2%F0%9D%90%A5%F0%9D%90%9E%F0%9D%90%AB+%F0%9D%90%AF%F0%9D%90%9E+%F0%9D%90%B2%F0%9D%90%9E%F0%9D%90%AD%F0%9D%90%A4%F0%9D%90%A2%F0%9D%90%A7%F0%9D%90%A5%F0%9D%90%A2%F0%9D%90%A4%F0%9D%90%A5%F0%9D%90%9E%F0%9D%90%AB%F0%9D%90%A2%F0%9D%90%A6)](https://git.io/typing-svg)
-
+### 🛠️ 𝘿𝙞𝙡𝙡𝙚𝙧 𝙫𝙚 𝘼𝙧𝙖ç𝙡𝙖𝙧
+𝐊𝐮𝐥𝐥𝐚𝐧𝐝𝐢ğ𝐢𝐦 𝐭𝐞𝐤𝐧𝐨𝐥𝐨𝐣𝐢𝐥𝐞𝐫 𝐯𝐞 𝐲𝐞𝐭𝐤𝐢𝐧𝐥𝐢𝐤𝐥𝐞𝐫𝐢𝐦
 <p align="center">
   <!-- Diller -->
   <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45" style="margin: 6px;"/></a>
