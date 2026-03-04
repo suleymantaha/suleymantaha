@@ -15,9 +15,6 @@
 <!-- İSTATİSTİKLER (Yan yana, renk uyumlu ve kutusuz (transparan) gösterim) -->
 ### 📊 GitHub İstatistikleri
 
-<p align="center">
-  <!-- Genel İstatistikler -->
-  <img src="https://github-readme-stats.vercel.app/api?username=suleymantaha&show_icons=true&theme=transparent&hide_border=true&title_color=F70202&icon_color=43FFA2&text_color=A0A0A0" alt="GitHub Stats" height="192"/>
   
   <!-- Sizin Streak İstatistiğiniz (Renkleri arayüzünüze uyduruldu) -->
   <img src="https://streak-stats.demolab.com?user=suleymantaha&theme=transparent&hide_border=true&title_color=F70202&ring=F70202&fire=F70202&currStreakLabel=43FFA2&text_color=A0A0A0" alt="GitHub Streak" height="192"/>
