@@ -20,23 +20,23 @@
 ### 📊 GitHub Metrikleri
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=suleymantaha&show_icons=true&theme=transparent&hide_border=true&title_color=F70202&icon_color=43FFA2&text_color=A0A0A0&include_all_commits=true&count_private=true" alt="GitHub Stats" height="165"/>
+  <img src="./profile/stats.svg" alt="GitHub Stats" height="165"/>
   &nbsp;
-  <img src="https://streak-stats.demolab.com?user=suleymantaha&theme=transparent&hide_border=true&title_color=F70202&ring=F70202&fire=F70202&currStreakLabel=43FFA2&text_color=A0A0A0" alt="GitHub Streak" height="165"/>
+  <img src="./profile/streak.svg" alt="GitHub Streak" height="165"/>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suleymantaha&layout=compact&theme=transparent&hide_border=true&title_color=F70202&text_color=A0A0A0&langs_count=8" alt="Top Languages" height="165"/>
+  <img src="./profile/top-langs.svg" alt="Top Languages" height="165"/>
 </p>
 
 ### 🏆 Başarılar
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=suleymantaha&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&title=Stars,Commit,Repositories,Followers&title_color=F70202&icon_color=43FFA2&text_color=A0A0A0" alt="Trophies" />
+  <img src="./profile/trophy.svg" alt="Trophies" />
 </p>
 
 ### 📈 Katkı Grafiği
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=suleymantaha&theme=react-dark&hide_border=true&area=true&color=F70202&line=43FFA2&point=A0A0A0&custom_title=Son+31+Gün+Katkılarım" alt="Activity Graph" width="95%" />
+  <img src="./profile/activity.svg" alt="Activity Graph" width="95%" />
 </p>
 
 ---
@@ -51,32 +51,32 @@
 
 **💻 Diller**
 
-<a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/></a>
-<a href="https://www.typescriptlang.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/></a>
-<a href="https://www.java.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/></a>
-<a href="https://dart.dev"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="40" height="40"/></a>
+<a href="https://www.python.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/></a>
+<a href="https://www.typescriptlang.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/></a>
+<a href="https://www.java.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/></a>
+<a href="https://dart.dev"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40" height="40"/></a>
 
 </td>
 <td align="center" width="33%">
 
 **🎨 Frontend & Mobil**
 
-<a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/></a>
-<a href="https://reactnative.dev/"><img src="https://reactnative.dev/img/header_logo.svg" width="40" height="40"/></a>
-<a href="https://vuejs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" width="40" height="40"/></a>
-<a href="https://flutter.dev"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40" height="40"/></a>
-<a href="https://developer.android.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40" height="40"/></a>
+<a href="https://reactjs.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/></a>
+<a href="https://reactnative.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/></a>
+<a href="https://vuejs.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" height="40"/></a>
+<a href="https://flutter.dev"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height="40"/></a>
+<a href="https://developer.android.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40" height="40"/></a>
 
 </td>
 <td align="center" width="33%">
 
 **⚙️ Backend & Veritabanı**
 
-<a href="https://nodejs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/></a>
-<a href="https://www.postgresql.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/></a>
-<a href="https://www.sqlite.org/"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="40" height="40"/></a>
-<a href="https://redis.io"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="40" height="40"/></a>
+<a href="https://nodejs.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/></a>
+<a href="https://www.postgresql.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/></a>
+<a href="https://www.sqlite.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" height="40"/></a>
+<a href="https://redis.io"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40" height="40"/></a>
 
 </td>
 </tr>
@@ -85,13 +85,13 @@
 
 **🤖 AI, Araçlar & Cloud**
 
-<a href="https://pytorch.org/"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" height="40"/></a>
-<a href="https://www.tensorflow.org"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40"/></a>
-<a href="https://opencv.org/"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40" height="40"/></a>
-<a href="https://pandas.pydata.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" width="40" height="40"/></a>
-<a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/></a>
-<a href="https://www.nginx.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="40" height="40"/></a>
-<a href="https://www.figma.com/"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"/></a>
+<a href="https://pytorch.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" height="40"/></a>
+<a href="https://www.tensorflow.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40"/></a>
+<a href="https://opencv.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="40" height="40"/></a>
+<a href="https://pandas.pydata.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40"/></a>
+<a href="https://www.docker.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/></a>
+<a href="https://www.nginx.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="40" height="40"/></a>
+<a href="https://www.figma.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40"/></a>
 
 </td>
 </tr>
@@ -105,10 +105,10 @@
 
 <p align="center">
   <a href="https://github.com/suleymantaha/flutter_quiz_app">
-    <img src="https://github-readme-stats.vercel.app/api/pin?username=suleymantaha&repo=flutter_quiz_app&theme=transparent&hide_border=true&title_color=F70202&icon_color=43FFA2" alt="Flutter Quiz App" />
+    <img src="./profile/pin-flutter_quiz_app.svg" alt="Flutter Quiz App" />
   </a>
   <a href="https://github.com/suleymantaha/translatorapp">
-    <img src="https://github-readme-stats.vercel.app/api/pin?username=suleymantaha&repo=translatorapp&theme=transparent&hide_border=true&title_color=F70202&icon_color=43FFA2" alt="Translator App" />
+    <img src="./profile/pin-translatorapp.svg" alt="Translator App" />
   </a>
 </p>
 
