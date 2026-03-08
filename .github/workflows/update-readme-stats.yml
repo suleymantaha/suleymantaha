@@ -51,7 +51,7 @@ jobs:
       - name: Trophy indir
         run: |
           mkdir -p profile
-          curl -s "https://github-profile-trophy.vercel.app/?username=suleymantaha&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&title_color=F70202&icon_color=43FFA2&text_color=A0A0A0" -o profile/trophy.svg
+          curl -s "https://gh-trophy.cdnsoft.net/?username=suleymantaha&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&title_color=F70202&icon_color=43FFA2&text_color=A0A0A0" -o profile/trophy.svg
 
       - name: Streak indir
         run: |
