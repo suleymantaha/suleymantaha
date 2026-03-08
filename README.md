@@ -1,55 +1,14 @@
-# 📦 GitHub Profil README - Tüm İçerik Tek Dosyada
-
-Bu dosya, GitHub profil README'niz için hazırlanan tüm içeriği tek yerde toplar.
-
----
-
-# BÖLÜM 1: KULLANIM KILAVUZU
-
-## 🚀 Hızlı Kurulum
-
-1. **suleymantaha/suleymantaha** reposuna git
-2. `README.md` dosyasını aç
-3. Aşağıdaki **BÖLÜM 2** içeriğini kopyala-yapıştır
-4. Commit & Push
-
-## ✏️ Kişiselleştirme
-
-| Değiştir | Nerede |
-|----------|--------|
-| E-posta | `iletisim@mailadresiniz.com` → gerçek adresiniz |
-| Öne çıkan projeler | `PROJE_ADI` → en iyi 2 reponuzun adı |
-| Typing satırları | `lines=` parametresindeki metinler |
-
-## ⚠️ Yılan Animasyonu
-
-`suleymantaha/suleymantaha` repo'sunda **output** klasörü ve **GitHub Actions** workflow'u olmalı. Snake zaten mevcut; değişiklik yapmanıza gerek yok.
-
-## 🎨 Renk Paleti (Mevcut)
-
-- **Kırmızı:** `F70202` (vurgu, ateş)
-- **Yeşil:** `43FFA2` (başlık, ikon)
-- **Gri:** `A0A0A0` (metin)
-
----
-
-# BÖLÜM 2: ANA README İÇERİĞİ (GitHub'a yapıştırılacak)
-
-```markdown
 <div align="center">
 
-<!-- 👀 PROFİL GÖRÜNTÜLEME SAYACI - İlk bakışta etki -->
 <img src="https://komarev.com/ghpvc/?username=suleymantaha&style=for-the-badge&color=F70202&label=Profil+Görüntülenme" alt="Profil Görüntülenme" />
 
 <br/>
 <br/>
 
-<!-- 🎯 GÜÇLÜ AÇILIŞ - Çok satırlı typing animasyonu -->
 <a href="https://github.com/suleymantaha">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3500&pause=1200&color=43FFA2&center=true&vCenter=true&width=650&lines=Software+Developer+%7C+Full+Stack;Makyevel;%C4%B0ZLEMEDE+KAL..!;Her+%C5%9Eey+Yolunda+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
-<!-- Alt başlık -->
 <p>
   <img src="https://img.shields.io/badge/🇹🇷_Türkiye-F70202?style=for-the-badge&logo=google-earth&logoColor=white" alt="Turkey" />
   <img src="https://img.shields.io/badge/Full_Stack-43FFA2?style=for-the-badge" alt="Full Stack" />
@@ -58,7 +17,6 @@ Bu dosya, GitHub profil README'niz için hazırlanan tüm içeriği tek yerde to
 
 ---
 
-<!-- 📊 İSTATİSTİKLER - 3'lü grid: Stats + Streak + Languages -->
 ### 📊 GitHub Metrikleri
 
 <p align="center">
@@ -69,14 +27,12 @@ Bu dosya, GitHub profil README'niz için hazırlanan tüm içeriği tek yerde to
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suleymantaha&layout=compact&theme=transparent&hide_border=true&title_color=F70202&text_color=A0A0A0&langs_count=8" alt="Top Languages" height="165"/>
 </p>
 
-<!-- 🏆 BAŞARI ROZETLERİ -->
 ### 🏆 Başarılar
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=suleymantaha&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&title=Stars,Commit,Repositories,Followers&title_color=F70202&icon_color=43FFA2&text_color=A0A0A0" alt="Trophies" />
 </p>
 
-<!-- 📈 AKTİVİTE GRAFİĞİ -->
 ### 📈 Katkı Grafiği
 
 <p align="center">
@@ -85,7 +41,6 @@ Bu dosya, GitHub profil README'niz için hazırlanan tüm içeriği tek yerde to
 
 ---
 
-<!-- 🛠️ DİLLER VE ARAÇLAR - Kategorize edilmiş -->
 ### 🛠️ Teknoloji Stack'im
 
 *Diller, framework'ler ve araçlar*
@@ -146,19 +101,19 @@ Bu dosya, GitHub profil README'niz için hazırlanan tüm içeriği tek yerde to
 
 ---
 
-<!-- 🔥 ÖNE ÇIKAN PROJELER - En iyi 2 reponuzu ekleyin: repo=REPO_ADI -->
 ### 🔥 Öne Çıkan Projeler
 
 <p align="center">
-  <a href="https://github.com/suleymantaha/suleymantaha">
-    <img src="https://github-readme-stats.vercel.app/api/pin?username=suleymantaha&repo=suleymantaha&theme=transparent&hide_border=true&title_color=F70202&icon_color=43FFA2" alt="Profil Repo" />
+  <a href="https://github.com/suleymantaha/flutter_quiz_app">
+    <img src="https://github-readme-stats.vercel.app/api/pin?username=suleymantaha&repo=flutter_quiz_app&theme=transparent&hide_border=true&title_color=F70202&icon_color=43FFA2" alt="Flutter Quiz App" />
   </a>
-  <!-- Repo 2: <a href="https://github.com/suleymantaha/PROJE_ADI"><img src="https://github-readme-stats.vercel.app/api/pin?username=suleymantaha&repo=PROJE_ADI&theme=transparent&hide_border=true&title_color=F70202&icon_color=43FFA2" /></a> -->
+  <a href="https://github.com/suleymantaha/translatorapp">
+    <img src="https://github-readme-stats.vercel.app/api/pin?username=suleymantaha&repo=translatorapp&theme=transparent&hide_border=true&title_color=F70202&icon_color=43FFA2" alt="Translator App" />
+  </a>
 </p>
 
 ---
 
-<!-- 📬 İLETİŞİM -->
 ### 📬 İletişim
 
 <p align="center">
@@ -176,7 +131,6 @@ Bu dosya, GitHub profil README'niz için hazırlanan tüm içeriği tek yerde to
 
 ---
 
-<!-- 🐍 KATKI YILANI -->
 ### 🐍 Katkı Haritası
 
 <picture>
@@ -187,101 +141,8 @@ Bu dosya, GitHub profil README'niz için hazırlanan tüm içeriği tek yerde to
 
 ---
 
-<!-- SON DOKUNUŞ -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=F70202&height=80&section=footer" width="100%" alt="Footer" />
 </p>
 
 </div>
-```
-
----
-
-# BÖLÜM 3: OPSİYONEL EKLEMELER
-
-## 1. 🎵 Spotify "Şu An Dinliyorum"
-
-Spotify kullanıyorsanız, dinlediğiniz şarkıyı canlı gösterebilirsiniz.
-
-**Kurulum:** [spotify-github-profile](https://github.com/kittinan/spotify-github-profile) veya [Spotify-Readme](https://github.com/panntod/Spotify-Readme)
-
-```markdown
-[![Spotify](https://spotify-readme.vercel.app/api/spotify)](https://open.spotify.com/user/YOUR_USER_ID)
-```
-
----
-
-## 2. ⏱️ WakaTime Kodlama Süreleri
-
-Ne kadar kod yazdığınızı gösterir. [WakaTime](https://wakatime.com) hesabı gerekir.
-
-```markdown
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=suleymantaha&theme=transparent&hide_border=true&title_color=F70202&text_color=A0A0A0" alt="WakaTime" />
-```
-
----
-
-## 3. 💡 Dinamik Günün Sözü
-
-```markdown
-### 💡 Günün Sözü
-<img src="https://github-readme-quotes.herokuapp.com/quote?theme=dark" alt="Quote" width="90%" />
-```
-
-*Not: API bazen yavaş olabilir, alternatif: `github-readme-quotes-bay.vercel.app/quote`*
-
----
-
-## 4. 📌 Özel Repo Kartları
-
-En iyi 2-3 projenizi öne çıkarın:
-
-```markdown
-<a href="https://github.com/suleymantaha/PROJE1"><img src="https://github-readme-stats.vercel.app/api/pin?username=suleymantaha&repo=PROJE1&theme=transparent&hide_border=true&title_color=F70202&icon_color=43FFA2" /></a>
-<a href="https://github.com/suleymantaha/PROJE2"><img src="https://github-readme-stats.vercel.app/api/pin?username=suleymantaha&repo=PROJE2&theme=transparent&hide_border=true&title_color=F70202&icon_color=43FFA2" /></a>
-```
-
----
-
-## 5. 📊 Alternatif Görüntüleme Sayacı
-
-- **komarev** (mevcut): `https://komarev.com/ghpvc/?username=suleymantaha`
-- **u8views**: Daha detaylı istatistik için [u8views.com](https://u8views.com)
-- **github-views**: `https://github-views.deno.dev/views/suleymantaha`
-
----
-
-## 6. 🐍 Yılan Renklerini Özelleştirme
-
-`suleymantaha/suleymantaha` repo'sunda GitHub Actions ile snake renklerini değiştirebilirsiniz. `workflows` klasöründeki yılan workflow dosyasında `color` parametrelerini düzenleyin.
-
----
-
-## 7. 📝 Blog / Yazılar Bölümü
-
-Medium, Dev.to veya kendi blogunuz varsa:
-
-```markdown
-### 📝 Son Yazılar
-- [Yazı Başlığı](https://link) - Tarih
-```
-
----
-
-## 8. 🎯 "Şu An Öğreniyorum" Badge
-
-```markdown
-<img src="https://img.shields.io/badge/Şu_An_Öğreniyorum-Rust%20%7C%20Go%20%7C%20Kubernetes-43FFA2?style=for-the-badge" />
-```
-
----
-
-## 9. 📧 E-posta Değişikliği
-
-`iletisim@mailadresiniz.com` → Gerçek e-posta adresinizle değiştirin.
-
----
-
-## 10. 🔄 Otomatik Güncelleme (GitHub Actions)
-
-README'yi günlük/haftalık otomatik güncellemek için Actions kullanabilirsiniz. Örnek: [README-typing-svg](https://github.com/DenverCoder1/readme-typing-svg) veya [awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) örnekleri.
