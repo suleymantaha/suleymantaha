@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=suleymantaha&style=for-the-badge&color=F70202&label=Profil+Görüntülenme" alt="Profil Görüntülenme" />
+<img src="https://komarev.com/ghpvc/?username=suleymantaha&style=for-the-badge&color=F70202&label=PROFILE+VIEWS" alt="Profil Görüntülenme" />
 
 <br/>
 <br/>
@@ -20,23 +20,11 @@
 ### 📊 GitHub Metrikleri
 
 <p align="center">
-  <img src="./profile/stats.svg" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=suleymantaha&show_icons=true&theme=transparent&hide_border=true&title_color=F70202&icon_color=43FFA2&text_color=A0A0A0&include_all_commits=true" alt="GitHub Stats" height="165"/>
   &nbsp;
-  <img src="./profile/streak.svg" alt="GitHub Streak" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=suleymantaha&theme=transparent&hide_border=true&title_color=F70202&ring=F70202&fire=F70202&currStreakLabel=43FFA2&text_color=A0A0A0" alt="GitHub Streak" height="165"/>
   &nbsp;
-  <img src="./profile/top-langs.svg" alt="Top Languages" height="165"/>
-</p>
-
-### 🏆 Başarılar
-
-<p align="center">
-  <img src="./profile/trophy.svg" alt="Trophies" />
-</p>
-
-### 📈 Katkı Grafiği
-
-<p align="center">
-  <img src="./profile/activity.svg" alt="Activity Graph" width="95%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suleymantaha&layout=compact&theme=transparent&hide_border=true&title_color=F70202&text_color=A0A0A0&langs_count=8" alt="Top Languages" height="165"/>
 </p>
 
 ---
@@ -105,10 +93,10 @@
 
 <p align="center">
   <a href="https://github.com/suleymantaha/flutter_quiz_app">
-    <img src="./profile/pin-flutter_quiz_app.svg" alt="Flutter Quiz App" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=suleymantaha&repo=flutter_quiz_app&theme=transparent&hide_border=true&title_color=F70202&icon_color=43FFA2" alt="Flutter Quiz App" />
   </a>
   <a href="https://github.com/suleymantaha/translatorapp">
-    <img src="./profile/pin-translatorapp.svg" alt="Translator App" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=suleymantaha&repo=translatorapp&theme=transparent&hide_border=true&title_color=F70202&icon_color=43FFA2" alt="Translator App" />
   </a>
 </p>
 
