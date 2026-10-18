@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=suleymantaha&style=for-the-badge&color=F70202&label=PROFILE+VIEWS" alt="Profil Görüntülenme" />
+<img src="https://hits.sh/github.com/suleymantaha.svg?style=for-the-badge&color=F70202&label=PROFILE+VIEWS" alt="Profil Görüntülenme" />
 
 <br/>
 <br/>
